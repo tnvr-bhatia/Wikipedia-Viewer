@@ -1,0 +1,30 @@
+.border {
+  border: solid 4px;
+  border-radius: 20px;
+  box-sizing: border-box;
+}
+.borderColor {
+  border-color: peru;
+}
+
+.input {
+  height: 40px;
+  font-size: 1rem;
+  background-color: transparent;
+}
+
+.padding {
+  padding: 0 10px;
+}
+
+.text-white {
+  color: white !important;
+}
+
+.d-block {
+  display: block;
+}
+
+.m-2 {
+  margin: 1rem !important;
+}
