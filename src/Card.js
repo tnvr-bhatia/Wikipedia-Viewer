@@ -12,9 +12,9 @@ class Card extends Component {
         target="_blank"
         rel="noopener noreferrer"
       >
-        <div className="thumbnail">
+        {/* <div className="thumbnail">
           <img src={this.props.imgSrc} alt="" className="img" />
-        </div>
+        </div> */}
         <div>
           <h2>{this.props.title}</h2>
           <p className="text-muted">{this.props.extract}</p>
